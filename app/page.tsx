@@ -42,7 +42,7 @@ const MARKER_RADIUS =
   EARTH_SURFACE_RADIUS + 0.09;
 
 const WEATHER_API =
-  "https://quill-showgirl-kennel.ngrok-free.dev";
+  "https://globe-weather-backend.onrender.com";
 
 const FRONT_OFFSET = -Math.PI / 2;
 
